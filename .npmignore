@@ -1,0 +1,17 @@
+.vs/**
+bin/**
+obj/**
+.npmrc*
+**/*.js
+**/*.js.map
+**/*.ts
+!**/*.d.ts
+.njsproj*
+*.tgz
+tsconfig.json
+!dist/**/*.js
+!lib/**/*.js
+!**/*.metadata.json
+!**/*.ngsummary.json
+.git/**
+**/yarn.lock

@@ -1,0 +1,11 @@
+.vs/**
+bin/**
+obj/**
+**/*.d.ts
+**/*.js
+**/*.js.map
+node_modules
+*.tgz
+*.metadata.json
+*.ngsummary.json
+**/*.log
